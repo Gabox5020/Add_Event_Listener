@@ -1,6 +1,6 @@
 <!-- HEADINGS -->
 
-## Accountant
+## Counter
 
 ### Description
 ---
